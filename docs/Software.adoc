@@ -1,1 +1,6 @@
 == Eingesetzte Software
+== Lucas Effenberger effenberger.lucas.el@gmail.com
+
+- Software 1
+- Software 2
+- Software 3
