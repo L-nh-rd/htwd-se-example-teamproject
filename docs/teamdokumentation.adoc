@@ -5,5 +5,12 @@ Vorname Nachname <email>
 :toc-title: Inhaltsverzeichnis
 // Platzhalter für weitere Dokumenten-Attribute
 
-== Einführung
-Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben von AsciiDoc und Teamarbeit mit Git
+.Namen:
+* Leonhard Hermann
+* Paul Händler
+* Lukas Effenberger
+
+=== Includes
+
+include::Teammitglierder.adoc[]
+include::Software.adoc[]
