@@ -4,8 +4,5 @@
 - Software 1
 - Software 2
 - Software 3
-<<<<<<< HEAD
-- SOftware 4
 =======
-- DRESDEM
->>>>>>> 4821459411e1c99b5f60a66d6cad3b13b67c380c
+
