@@ -4,9 +4,12 @@
 - Software 1
 - Software 2
 - Software 3
-- Software 4
+- Software 4git clean -df
+
 - software 5
-- ssss
-- dddd
+- git stash 
+- Leopolds Bier Tracker
 =======
+
+
 
