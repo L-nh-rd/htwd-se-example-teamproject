@@ -4,11 +4,10 @@
 - Software 1
 - Software 2
 - Software 3
-- Software 4git clean -df
 
-- software 5
-- git stash 
-- Leopolds Bier Tracker
+
+-software 44 
+-sqswdsw
 =======
 git log --oneline
 
