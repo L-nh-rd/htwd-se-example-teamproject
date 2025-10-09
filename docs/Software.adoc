@@ -10,6 +10,6 @@
 - git stash 
 - Leopolds Bier Tracker
 =======
-
+git log --oneline
 
 
