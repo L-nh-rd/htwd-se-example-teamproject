@@ -13,14 +13,14 @@
 -d
 -neues feature
 ***Super Feature ***    
-*Dieses Feature trackt den Rot-Wein den Paul 
+*Dieses Feature trackt den Rosé-Wein den Paul 
 *schnabbuliert hat
 *Dieses Feature ist sehr wichtig 
 *bitte bitte mit Prio 1 umsetzen
 *Danke
 *Ga Li Grü
 *eurer Product Owner
-*und Rot-Weinenthusiast
+*und Rosé-Weinenthusiast
 * P
 **************************
 =======
