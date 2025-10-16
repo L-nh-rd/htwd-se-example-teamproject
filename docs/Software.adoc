@@ -13,7 +13,7 @@
 -d
 -neues feature
 ***Super Feature ***    
-*Dieses Feature trackt die Leo 
+*Dieses Feature trackt Bier die Leo 
 *schnabbuliert hat
 *Dieses Feature ist sehr wichtig 
 *bitte bitte mit Prio 1 umsetzen
