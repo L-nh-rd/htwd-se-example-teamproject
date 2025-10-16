@@ -13,6 +13,17 @@
 -d
 -neues feature
 ***Super Feature ***    
+*Dieses Feature trackt den Wein den Paul 
+*schnabbuliert hat
+*Dieses Feature ist sehr wichtig 
+*bitte bitte mit Prio 1 umsetzen
+*Danke
+*Ga Li Grü
+*eurer Product Owner
+*und Weinenthusiast
+* P
+**************************
+======= 
 *Dieses Feature trackt den Weiß-Wein den Paul 
 *schnabbuliert hat
 *Dieses Feature ist sehr wichtig 
@@ -22,6 +33,17 @@
 *eurer Product Owner
 *und Weißwein-Weinenthusiast
 * P
+*****************************Super Feature ***    
+*Dieses Feature trackt den Rot-Wein den Paul 
+*schnabbuliert hat
+*Dieses Feature ist sehr wichtig 
+*bitte bitte mit Prio 1 umsetzen
+*Danke
+*Ga Li Grü
+*eurer Product Owner
+*und Rot-Weinenthusiast
+* P
 **************************
 =======
+änderung i
 
